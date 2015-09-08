@@ -1,8 +1,8 @@
-# thumbnail_index
-Fork of Jef Poskanzer's thumbnail_index (http://acme.com/software/thumbnail_index/)
+# thumbnail_index 
+## make an HTML index file for a bunch of images
+### version of 03feb98
 
-# thumbnail_index - make an HTML index file for a bunch of images
-## version of 03feb98
+Fork of Jef Poskanzer's thumbnail_index (http://acme.com/software/thumbnail_index/)
 
 Run this script in a web directory consisting of all or mostly image
 files.  It'll create an index.html of thumbnail images, putting
